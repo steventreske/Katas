@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using FluentAssertions;
+﻿using FluentAssertions;
 using Xunit;
 
 namespace Katas
 {
-    public class CheckProject
+    public class FizzBuzz
+    {
+    }
+
+    public class FizzBuzzTest
     {
         [Fact]
         public void ShouldWork()
